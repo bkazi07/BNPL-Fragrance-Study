@@ -1,0 +1,704 @@
+Respondent_ID,Used_BNPL,Purchase_Influenced_By_BNPL,Age_Group,Income_Level,Gender,Size_Upgrade_Due_To_BNPL
+1,No,Would Purchase Anyway,25–34,30k–60k,Female,No
+2,No,Would Skip,25–34,30k–60k,Male,Not Applicable
+3,Yes,Would Delay,18–24,<30k,Male,Not Applicable
+4,Yes,Would Purchase Anyway,25–34,<30k,Female,Not Applicable
+5,No,Would Purchase Anyway,18–24,<30k,Male,Not Applicable
+6,Yes,Would Purchase Anyway,25–34,30k–60k,Female,Not Applicable
+7,No,Would Purchase Anyway,35–44,60k–100k,Female,Not Applicable
+8,Yes,Would Purchase Anyway,25–34,60k–100k,Male,No
+9,Yes,Would Delay,25–34,<30k,Male,No
+10,Yes,Would Delay,25–34,<30k,Male,Yes
+11,Yes,Would Purchase Anyway,18–24,100k+,Male,Not Applicable
+12,Yes,Would Skip,25–34,30k–60k,Female,Yes
+13,Yes,Would Skip,18–24,60k–100k,Female,Yes
+14,No,Would Delay,35–44,30k–60k,Female,No
+15,No,Would Purchase Anyway,25–34,30k–60k,Female,No
+16,Yes,Would Delay,25–34,30k–60k,Male,Yes
+17,Yes,Would Delay,35–44,30k–60k,Male,Yes
+18,Yes,Would Purchase Anyway,25–34,<30k,Male,No
+19,No,Would Purchase Anyway,25–34,30k–60k,Female,Yes
+20,Yes,Would Purchase Anyway,25–34,30k–60k,Female,No
+21,No,Would Purchase Anyway,25–34,30k–60k,Male,Not Applicable
+22,No,Would Purchase Anyway,35–44,30k–60k,Male,Not Applicable
+23,Yes,Would Purchase Anyway,35–44,60k–100k,Male,Yes
+24,Yes,Would Purchase Anyway,25–34,<30k,Other,No
+25,Yes,Would Skip,25–34,100k+,Male,Not Applicable
+26,Yes,Would Skip,45+,60k–100k,Male,No
+27,Yes,Would Purchase Anyway,25–34,30k–60k,Male,Yes
+28,Yes,Would Skip,35–44,30k–60k,Female,Yes
+29,No,Would Purchase Anyway,18–24,<30k,Male,No
+30,Yes,Would Delay,18–24,100k+,Male,Not Applicable
+31,Yes,Would Delay,25–34,60k–100k,Female,Not Applicable
+32,Yes,Would Purchase Anyway,18–24,60k–100k,Female,No
+33,Yes,Would Purchase Anyway,18–24,60k–100k,Male,No
+34,No,Would Delay,18–24,30k–60k,Male,No
+35,Yes,Would Purchase Anyway,18–24,60k–100k,Female,Yes
+36,Yes,Would Purchase Anyway,45+,<30k,Female,Yes
+37,Yes,Would Delay,18–24,<30k,Male,Yes
+38,Yes,Would Purchase Anyway,25–34,100k+,Female,Not Applicable
+39,Yes,Would Purchase Anyway,18–24,<30k,Female,Yes
+40,No,Would Delay,25–34,<30k,Female,Not Applicable
+41,Yes,Would Purchase Anyway,35–44,60k–100k,Female,No
+42,Yes,Would Purchase Anyway,18–24,30k–60k,Female,Yes
+43,Yes,Would Purchase Anyway,18–24,30k–60k,Male,No
+44,Yes,Would Purchase Anyway,35–44,60k–100k,Female,Not Applicable
+45,Yes,Would Purchase Anyway,25–34,<30k,Female,No
+46,No,Would Skip,25–34,60k–100k,Female,No
+47,Yes,Would Purchase Anyway,25–34,60k–100k,Female,No
+48,No,Would Delay,35–44,60k–100k,Female,Yes
+49,No,Would Delay,25–34,30k–60k,Female,Yes
+50,Yes,Would Skip,18–24,30k–60k,Female,Not Applicable
+51,Yes,Would Purchase Anyway,25–34,60k–100k,Female,Not Applicable
+52,No,Would Purchase Anyway,25–34,100k+,Female,No
+53,Yes,Would Purchase Anyway,25–34,30k–60k,Female,Not Applicable
+54,Yes,Would Purchase Anyway,18–24,30k–60k,Male,Yes
+55,No,Would Delay,25–34,100k+,Male,No
+56,Yes,Would Skip,25–34,100k+,Female,Yes
+57,No,Would Purchase Anyway,35–44,<30k,Female,No
+58,Yes,Would Purchase Anyway,25–34,60k–100k,Male,Yes
+59,Yes,Would Delay,45+,<30k,Female,Yes
+60,Yes,Would Delay,18–24,60k–100k,Female,Yes
+61,Yes,Would Delay,25–34,30k–60k,Female,Yes
+62,No,Would Purchase Anyway,25–34,30k–60k,Female,Yes
+63,No,Would Delay,25–34,60k–100k,Male,No
+64,Yes,Would Purchase Anyway,35–44,100k+,Female,No
+65,Yes,Would Purchase Anyway,18–24,<30k,Male,Not Applicable
+66,Yes,Would Purchase Anyway,25–34,30k–60k,Male,Not Applicable
+67,Yes,Would Skip,35–44,100k+,Female,Not Applicable
+68,Yes,Would Purchase Anyway,35–44,30k–60k,Male,No
+69,Yes,Would Delay,25–34,100k+,Other,Not Applicable
+70,No,Would Purchase Anyway,35–44,100k+,Female,Yes
+71,Yes,Would Skip,18–24,30k–60k,Female,Not Applicable
+72,Yes,Would Purchase Anyway,45+,100k+,Female,Not Applicable
+73,Yes,Would Purchase Anyway,18–24,60k–100k,Male,No
+74,Yes,Would Delay,25–34,30k–60k,Female,Yes
+75,Yes,Would Delay,45+,100k+,Female,No
+76,Yes,Would Purchase Anyway,25–34,<30k,Female,Yes
+77,No,Would Skip,25–34,60k–100k,Female,Yes
+78,Yes,Would Delay,25–34,<30k,Female,Yes
+79,No,Would Skip,25–34,30k–60k,Female,No
+80,Yes,Would Delay,35–44,<30k,Female,Not Applicable
+81,Yes,Would Purchase Anyway,35–44,30k–60k,Female,Yes
+82,No,Would Purchase Anyway,35–44,30k–60k,Male,Not Applicable
+83,Yes,Would Delay,18–24,60k–100k,Female,Yes
+84,Yes,Would Purchase Anyway,25–34,<30k,Female,Yes
+85,No,Would Purchase Anyway,25–34,<30k,Female,Not Applicable
+86,Yes,Would Purchase Anyway,18–24,<30k,Male,Not Applicable
+87,Yes,Would Delay,25–34,30k–60k,Male,Not Applicable
+88,Yes,Would Delay,25–34,100k+,Female,Yes
+89,Yes,Would Purchase Anyway,18–24,100k+,Male,No
+90,No,Would Skip,35–44,100k+,Male,Yes
+91,No,Would Delay,25–34,60k–100k,Female,Not Applicable
+92,Yes,Would Purchase Anyway,25–34,60k–100k,Female,Yes
+93,No,Would Purchase Anyway,18–24,60k–100k,Male,Not Applicable
+94,No,Would Purchase Anyway,18–24,<30k,Male,Not Applicable
+95,Yes,Would Delay,35–44,60k–100k,Female,Not Applicable
+96,Yes,Would Delay,45+,60k–100k,Male,Not Applicable
+97,No,Would Purchase Anyway,25–34,<30k,Female,Not Applicable
+98,Yes,Would Purchase Anyway,18–24,100k+,Female,No
+99,Yes,Would Purchase Anyway,25–34,100k+,Other,No
+100,Yes,Would Delay,18–24,<30k,Female,Not Applicable
+101,Yes,Would Skip,25–34,30k–60k,Male,Not Applicable
+102,Yes,Would Delay,25–34,30k–60k,Female,No
+103,Yes,Would Purchase Anyway,45+,30k–60k,Female,Not Applicable
+104,Yes,Would Purchase Anyway,18–24,<30k,Female,Not Applicable
+105,Yes,Would Purchase Anyway,25–34,<30k,Female,Not Applicable
+106,Yes,Would Purchase Anyway,25–34,60k–100k,Female,Yes
+107,Yes,Would Delay,18–24,30k–60k,Female,Yes
+108,No,Would Purchase Anyway,18–24,100k+,Female,Not Applicable
+109,Yes,Would Delay,35–44,100k+,Female,Yes
+110,Yes,Would Skip,35–44,100k+,Male,Yes
+111,Yes,Would Purchase Anyway,25–34,30k–60k,Male,Yes
+112,Yes,Would Purchase Anyway,25–34,<30k,Male,Not Applicable
+113,No,Would Purchase Anyway,25–34,100k+,Female,Not Applicable
+114,No,Would Purchase Anyway,25–34,60k–100k,Male,Yes
+115,Yes,Would Purchase Anyway,35–44,<30k,Female,Yes
+116,No,Would Purchase Anyway,25–34,100k+,Other,No
+117,No,Would Delay,45+,100k+,Male,No
+118,No,Would Purchase Anyway,25–34,100k+,Female,No
+119,Yes,Would Purchase Anyway,18–24,60k–100k,Male,Yes
+120,Yes,Would Delay,35–44,<30k,Female,Not Applicable
+121,No,Would Purchase Anyway,25–34,60k–100k,Female,Not Applicable
+122,No,Would Purchase Anyway,25–34,<30k,Female,Not Applicable
+123,Yes,Would Delay,35–44,<30k,Female,Not Applicable
+124,No,Would Delay,25–34,<30k,Female,Yes
+125,Yes,Would Purchase Anyway,25–34,<30k,Male,No
+126,No,Would Delay,18–24,30k–60k,Male,No
+127,Yes,Would Delay,25–34,30k–60k,Female,Not Applicable
+128,No,Would Skip,25–34,30k–60k,Female,Not Applicable
+129,Yes,Would Purchase Anyway,25–34,60k–100k,Male,Yes
+130,No,Would Purchase Anyway,25–34,30k–60k,Male,No
+131,No,Would Purchase Anyway,25–34,60k–100k,Female,Not Applicable
+132,Yes,Would Purchase Anyway,18–24,100k+,Male,Not Applicable
+133,Yes,Would Purchase Anyway,25–34,60k–100k,Male,No
+134,Yes,Would Skip,25–34,<30k,Female,No
+135,Yes,Would Purchase Anyway,25–34,60k–100k,Female,Yes
+136,No,Would Delay,25–34,<30k,Male,Yes
+137,No,Would Purchase Anyway,25–34,100k+,Male,Not Applicable
+138,Yes,Would Purchase Anyway,18–24,30k–60k,Male,Yes
+139,Yes,Would Purchase Anyway,18–24,<30k,Female,No
+140,No,Would Purchase Anyway,18–24,100k+,Male,Not Applicable
+141,No,Would Purchase Anyway,25–34,60k–100k,Male,Yes
+142,Yes,Would Skip,18–24,60k–100k,Male,Yes
+143,Yes,Would Delay,18–24,<30k,Female,Not Applicable
+144,No,Would Delay,45+,60k–100k,Female,No
+145,No,Would Purchase Anyway,25–34,100k+,Female,Not Applicable
+146,Yes,Would Delay,45+,100k+,Male,Yes
+147,Yes,Would Delay,25–34,100k+,Female,Not Applicable
+148,Yes,Would Purchase Anyway,25–34,100k+,Female,No
+149,No,Would Skip,25–34,60k–100k,Female,Not Applicable
+150,Yes,Would Purchase Anyway,25–34,60k–100k,Female,Yes
+151,Yes,Would Delay,25–34,30k–60k,Male,No
+152,Yes,Would Purchase Anyway,25–34,100k+,Female,Yes
+153,Yes,Would Purchase Anyway,35–44,30k–60k,Female,No
+154,Yes,Would Purchase Anyway,45+,30k–60k,Female,No
+155,No,Would Skip,25–34,60k–100k,Male,Not Applicable
+156,Yes,Would Skip,35–44,60k–100k,Female,Not Applicable
+157,Yes,Would Purchase Anyway,25–34,<30k,Male,Yes
+158,Yes,Would Purchase Anyway,25–34,<30k,Female,Not Applicable
+159,No,Would Purchase Anyway,25–34,100k+,Female,Not Applicable
+160,Yes,Would Purchase Anyway,35–44,60k–100k,Male,Yes
+161,Yes,Would Skip,25–34,30k–60k,Female,Yes
+162,Yes,Would Purchase Anyway,25–34,100k+,Female,No
+163,Yes,Would Purchase Anyway,18–24,60k–100k,Female,No
+164,Yes,Would Purchase Anyway,35–44,<30k,Female,Yes
+165,No,Would Purchase Anyway,45+,30k–60k,Male,Yes
+166,No,Would Purchase Anyway,25–34,30k–60k,Male,Yes
+167,No,Would Skip,18–24,100k+,Female,Not Applicable
+168,No,Would Purchase Anyway,45+,100k+,Female,Yes
+169,Yes,Would Purchase Anyway,35–44,30k–60k,Female,No
+170,No,Would Delay,45+,60k–100k,Female,Yes
+171,Yes,Would Delay,25–34,60k–100k,Female,Yes
+172,Yes,Would Delay,25–34,30k–60k,Female,Not Applicable
+173,No,Would Purchase Anyway,18–24,<30k,Female,No
+174,No,Would Purchase Anyway,18–24,30k–60k,Female,Yes
+175,No,Would Delay,45+,60k–100k,Female,No
+176,No,Would Purchase Anyway,25–34,100k+,Female,Not Applicable
+177,Yes,Would Delay,35–44,<30k,Male,Not Applicable
+178,Yes,Would Purchase Anyway,25–34,30k–60k,Female,No
+179,No,Would Delay,18–24,60k–100k,Male,Yes
+180,No,Would Purchase Anyway,25–34,100k+,Female,Yes
+181,No,Would Delay,25–34,60k–100k,Female,Not Applicable
+182,No,Would Delay,25–34,100k+,Female,Yes
+183,Yes,Would Delay,25–34,60k–100k,Male,Yes
+184,Yes,Would Skip,25–34,30k–60k,Male,Not Applicable
+185,Yes,Would Purchase Anyway,25–34,100k+,Female,No
+186,Yes,Would Purchase Anyway,18–24,60k–100k,Male,No
+187,Yes,Would Delay,25–34,100k+,Female,No
+188,No,Would Purchase Anyway,25–34,30k–60k,Female,Not Applicable
+189,Yes,Would Purchase Anyway,35–44,30k–60k,Male,Yes
+190,No,Would Purchase Anyway,25–34,60k–100k,Female,Yes
+191,No,Would Delay,25–34,60k–100k,Male,Not Applicable
+192,Yes,Would Purchase Anyway,35–44,30k–60k,Female,Not Applicable
+193,Yes,Would Purchase Anyway,25–34,30k–60k,Male,Not Applicable
+194,No,Would Delay,18–24,60k–100k,Female,No
+195,No,Would Delay,18–24,<30k,Female,Yes
+196,Yes,Would Purchase Anyway,25–34,60k–100k,Female,No
+197,Yes,Would Skip,25–34,30k–60k,Female,Yes
+198,Yes,Would Purchase Anyway,25–34,100k+,Female,No
+199,Yes,Would Skip,25–34,100k+,Female,No
+200,Yes,Would Delay,25–34,30k–60k,Male,No
+201,Yes,Would Purchase Anyway,18–24,30k–60k,Female,No
+202,Yes,Would Purchase Anyway,35–44,<30k,Female,No
+203,No,Would Purchase Anyway,25–34,60k–100k,Female,No
+204,Yes,Would Purchase Anyway,25–34,60k–100k,Female,Not Applicable
+205,Yes,Would Delay,18–24,<30k,Male,Not Applicable
+206,Yes,Would Purchase Anyway,18–24,100k+,Female,Yes
+207,No,Would Delay,25–34,100k+,Male,No
+208,No,Would Purchase Anyway,35–44,60k–100k,Female,Not Applicable
+209,Yes,Would Delay,18–24,<30k,Female,Yes
+210,No,Would Purchase Anyway,25–34,100k+,Other,Not Applicable
+211,No,Would Purchase Anyway,25–34,30k–60k,Female,No
+212,No,Would Purchase Anyway,25–34,60k–100k,Other,Yes
+213,No,Would Purchase Anyway,25–34,30k–60k,Male,Yes
+214,No,Would Delay,25–34,100k+,Male,Yes
+215,No,Would Purchase Anyway,18–24,<30k,Female,No
+216,Yes,Would Purchase Anyway,35–44,100k+,Male,No
+217,No,Would Delay,35–44,30k–60k,Male,Yes
+218,Yes,Would Delay,25–34,<30k,Female,No
+219,Yes,Would Delay,25–34,100k+,Female,Yes
+220,Yes,Would Purchase Anyway,25–34,60k–100k,Male,No
+221,No,Would Delay,18–24,<30k,Male,Yes
+222,Yes,Would Delay,35–44,<30k,Female,Yes
+223,Yes,Would Delay,18–24,30k–60k,Female,No
+224,Yes,Would Purchase Anyway,18–24,60k–100k,Male,No
+225,No,Would Delay,25–34,100k+,Male,Yes
+226,No,Would Purchase Anyway,25–34,60k–100k,Female,No
+227,Yes,Would Delay,45+,<30k,Female,Yes
+228,No,Would Delay,18–24,30k–60k,Male,Yes
+229,Yes,Would Purchase Anyway,25–34,100k+,Female,Yes
+230,Yes,Would Purchase Anyway,35–44,100k+,Male,No
+231,No,Would Delay,25–34,100k+,Female,Not Applicable
+232,No,Would Delay,25–34,<30k,Female,Yes
+233,Yes,Would Delay,18–24,100k+,Male,Yes
+234,Yes,Would Purchase Anyway,45+,100k+,Male,Yes
+235,No,Would Delay,18–24,<30k,Other,Not Applicable
+236,Yes,Would Purchase Anyway,25–34,100k+,Male,Yes
+237,Yes,Would Purchase Anyway,35–44,30k–60k,Female,Not Applicable
+238,Yes,Would Delay,25–34,<30k,Female,Yes
+239,Yes,Would Purchase Anyway,25–34,<30k,Female,Yes
+240,No,Would Skip,25–34,<30k,Male,Not Applicable
+241,No,Would Delay,25–34,30k–60k,Male,Not Applicable
+242,No,Would Delay,18–24,30k–60k,Female,No
+243,Yes,Would Purchase Anyway,18–24,100k+,Male,Yes
+244,Yes,Would Delay,18–24,60k–100k,Female,Not Applicable
+245,No,Would Skip,35–44,<30k,Female,No
+246,Yes,Would Delay,25–34,<30k,Female,Yes
+247,No,Would Purchase Anyway,25–34,<30k,Female,Yes
+248,Yes,Would Purchase Anyway,25–34,<30k,Female,Yes
+249,Yes,Would Delay,25–34,30k–60k,Female,Yes
+250,No,Would Purchase Anyway,35–44,60k–100k,Male,No
+251,Yes,Would Delay,25–34,<30k,Male,Yes
+252,No,Would Delay,25–34,<30k,Female,Yes
+253,Yes,Would Delay,25–34,<30k,Female,Not Applicable
+254,Yes,Would Delay,35–44,60k–100k,Female,Yes
+255,Yes,Would Delay,18–24,30k–60k,Male,Yes
+256,No,Would Purchase Anyway,35–44,<30k,Female,Not Applicable
+257,No,Would Purchase Anyway,18–24,60k–100k,Female,Yes
+258,Yes,Would Delay,25–34,30k–60k,Female,Yes
+259,No,Would Delay,35–44,60k–100k,Female,Not Applicable
+260,Yes,Would Skip,35–44,<30k,Female,Not Applicable
+261,No,Would Purchase Anyway,25–34,30k–60k,Male,Not Applicable
+262,Yes,Would Skip,35–44,60k–100k,Female,Yes
+263,Yes,Would Delay,35–44,60k–100k,Female,Not Applicable
+264,Yes,Would Purchase Anyway,25–34,60k–100k,Female,No
+265,No,Would Purchase Anyway,25–34,30k–60k,Male,Not Applicable
+266,Yes,Would Purchase Anyway,35–44,100k+,Male,No
+267,No,Would Purchase Anyway,35–44,30k–60k,Female,Not Applicable
+268,Yes,Would Delay,25–34,30k–60k,Female,No
+269,No,Would Delay,18–24,<30k,Female,Yes
+270,Yes,Would Purchase Anyway,25–34,<30k,Female,Yes
+271,No,Would Delay,35–44,<30k,Female,No
+272,No,Would Delay,18–24,30k–60k,Female,Not Applicable
+273,No,Would Delay,25–34,<30k,Female,Not Applicable
+274,No,Would Purchase Anyway,18–24,<30k,Female,No
+275,No,Would Purchase Anyway,45+,30k–60k,Female,Yes
+276,Yes,Would Purchase Anyway,25–34,60k–100k,Male,Not Applicable
+277,No,Would Purchase Anyway,18–24,60k–100k,Other,Yes
+278,Yes,Would Delay,25–34,60k–100k,Female,Not Applicable
+279,No,Would Purchase Anyway,35–44,100k+,Female,Yes
+280,Yes,Would Purchase Anyway,25–34,<30k,Female,Not Applicable
+281,Yes,Would Skip,25–34,100k+,Female,Yes
+282,Yes,Would Delay,18–24,30k–60k,Female,Yes
+283,Yes,Would Purchase Anyway,35–44,<30k,Female,Yes
+284,Yes,Would Skip,25–34,30k–60k,Female,Not Applicable
+285,No,Would Purchase Anyway,25–34,<30k,Male,No
+286,Yes,Would Purchase Anyway,35–44,30k–60k,Male,Not Applicable
+287,Yes,Would Delay,25–34,<30k,Female,Not Applicable
+288,No,Would Delay,25–34,30k–60k,Female,Yes
+289,Yes,Would Delay,25–34,100k+,Female,Not Applicable
+290,No,Would Purchase Anyway,25–34,<30k,Other,Not Applicable
+291,No,Would Delay,18–24,60k–100k,Female,Yes
+292,No,Would Purchase Anyway,35–44,<30k,Female,Not Applicable
+293,No,Would Delay,25–34,100k+,Female,No
+294,No,Would Skip,35–44,60k–100k,Female,No
+295,Yes,Would Purchase Anyway,45+,<30k,Female,Yes
+296,No,Would Delay,25–34,<30k,Female,Not Applicable
+297,Yes,Would Purchase Anyway,18–24,<30k,Male,Yes
+298,No,Would Delay,35–44,<30k,Female,Not Applicable
+299,Yes,Would Delay,18–24,30k–60k,Male,No
+300,Yes,Would Purchase Anyway,25–34,60k–100k,Male,Yes
+301,No,Would Skip,18–24,<30k,Male,Not Applicable
+302,No,Would Purchase Anyway,25–34,30k–60k,Male,No
+303,Yes,Would Purchase Anyway,18–24,30k–60k,Male,Yes
+304,No,Would Delay,18–24,60k–100k,Male,No
+305,Yes,Would Skip,18–24,100k+,Male,Yes
+306,Yes,Would Purchase Anyway,25–34,30k–60k,Male,Not Applicable
+307,Yes,Would Delay,18–24,30k–60k,Female,No
+308,No,Would Skip,35–44,<30k,Male,Yes
+309,Yes,Would Delay,18–24,30k–60k,Female,No
+310,Yes,Would Purchase Anyway,25–34,30k–60k,Female,Not Applicable
+311,No,Would Delay,35–44,100k+,Male,Not Applicable
+312,Yes,Would Purchase Anyway,18–24,60k–100k,Male,No
+313,No,Would Purchase Anyway,35–44,60k–100k,Female,Not Applicable
+314,No,Would Purchase Anyway,18–24,30k–60k,Female,No
+315,Yes,Would Delay,25–34,60k–100k,Male,Not Applicable
+316,Yes,Would Delay,25–34,30k–60k,Female,Not Applicable
+317,No,Would Delay,35–44,<30k,Male,Yes
+318,No,Would Purchase Anyway,18–24,30k–60k,Female,Not Applicable
+319,No,Would Delay,25–34,100k+,Male,Not Applicable
+320,No,Would Purchase Anyway,45+,100k+,Female,No
+321,Yes,Would Purchase Anyway,45+,30k–60k,Male,Yes
+322,Yes,Would Purchase Anyway,18–24,<30k,Female,Not Applicable
+323,No,Would Purchase Anyway,45+,<30k,Male,Yes
+324,Yes,Would Delay,25–34,60k–100k,Male,Yes
+325,Yes,Would Purchase Anyway,18–24,<30k,Female,No
+326,No,Would Delay,35–44,100k+,Male,Not Applicable
+327,Yes,Would Delay,35–44,60k–100k,Female,Not Applicable
+328,No,Would Purchase Anyway,25–34,30k–60k,Female,Yes
+329,No,Would Delay,25–34,<30k,Female,Not Applicable
+330,Yes,Would Skip,25–34,100k+,Female,No
+331,Yes,Would Purchase Anyway,35–44,<30k,Male,Yes
+332,No,Would Purchase Anyway,25–34,30k–60k,Female,No
+333,Yes,Would Skip,25–34,60k–100k,Female,Not Applicable
+334,Yes,Would Purchase Anyway,45+,30k–60k,Female,Yes
+335,Yes,Would Purchase Anyway,25–34,100k+,Female,No
+336,No,Would Purchase Anyway,35–44,30k–60k,Female,Not Applicable
+337,No,Would Purchase Anyway,35–44,30k–60k,Female,Yes
+338,Yes,Would Delay,25–34,30k–60k,Female,Yes
+339,Yes,Would Purchase Anyway,25–34,<30k,Female,Not Applicable
+340,Yes,Would Delay,18–24,<30k,Female,Yes
+341,No,Would Delay,18–24,100k+,Male,Yes
+342,No,Would Delay,18–24,30k–60k,Female,Yes
+343,Yes,Would Delay,25–34,100k+,Male,Yes
+344,No,Would Purchase Anyway,18–24,100k+,Male,Yes
+345,No,Would Delay,25–34,<30k,Male,Yes
+346,Yes,Would Purchase Anyway,25–34,60k–100k,Female,Not Applicable
+347,No,Would Purchase Anyway,18–24,60k–100k,Male,Yes
+348,Yes,Would Purchase Anyway,25–34,30k–60k,Male,Not Applicable
+349,Yes,Would Purchase Anyway,18–24,30k–60k,Female,Yes
+350,Yes,Would Delay,25–34,60k–100k,Female,No
+351,Yes,Would Purchase Anyway,25–34,60k–100k,Female,Yes
+352,Yes,Would Purchase Anyway,25–34,30k–60k,Female,No
+353,No,Would Skip,18–24,<30k,Female,No
+354,Yes,Would Delay,25–34,30k–60k,Male,Not Applicable
+355,Yes,Would Delay,18–24,60k–100k,Female,No
+356,Yes,Would Purchase Anyway,45+,<30k,Male,No
+357,No,Would Purchase Anyway,25–34,60k–100k,Male,Yes
+358,No,Would Delay,18–24,60k–100k,Female,Yes
+359,No,Would Delay,35–44,60k–100k,Female,Not Applicable
+360,No,Would Skip,25–34,30k–60k,Male,Not Applicable
+361,No,Would Purchase Anyway,25–34,60k–100k,Male,Yes
+362,No,Would Purchase Anyway,35–44,30k–60k,Male,Not Applicable
+363,No,Would Purchase Anyway,35–44,100k+,Female,Not Applicable
+364,Yes,Would Purchase Anyway,25–34,<30k,Male,No
+365,No,Would Purchase Anyway,25–34,30k–60k,Female,Not Applicable
+366,Yes,Would Delay,25–34,30k–60k,Female,Yes
+367,Yes,Would Purchase Anyway,25–34,100k+,Female,Yes
+368,Yes,Would Purchase Anyway,45+,100k+,Male,Not Applicable
+369,No,Would Purchase Anyway,25–34,100k+,Female,Yes
+370,Yes,Would Purchase Anyway,35–44,30k–60k,Male,No
+371,No,Would Purchase Anyway,25–34,100k+,Female,Not Applicable
+372,No,Would Purchase Anyway,35–44,<30k,Female,Yes
+373,No,Would Delay,35–44,60k–100k,Female,Yes
+374,Yes,Would Purchase Anyway,45+,60k–100k,Female,Not Applicable
+375,Yes,Would Delay,18–24,100k+,Female,Not Applicable
+376,Yes,Would Purchase Anyway,18–24,<30k,Female,Not Applicable
+377,Yes,Would Purchase Anyway,25–34,30k–60k,Male,Yes
+378,No,Would Purchase Anyway,18–24,30k–60k,Male,Not Applicable
+379,No,Would Purchase Anyway,35–44,<30k,Female,Yes
+380,Yes,Would Skip,35–44,60k–100k,Female,Yes
+381,Yes,Would Delay,18–24,60k–100k,Female,Yes
+382,No,Would Purchase Anyway,25–34,30k–60k,Female,No
+383,Yes,Would Purchase Anyway,25–34,<30k,Female,Not Applicable
+384,No,Would Delay,25–34,60k–100k,Male,No
+385,No,Would Purchase Anyway,25–34,100k+,Female,No
+386,Yes,Would Purchase Anyway,35–44,100k+,Male,Not Applicable
+387,Yes,Would Delay,25–34,30k–60k,Female,Yes
+388,No,Would Delay,25–34,60k–100k,Female,Not Applicable
+389,Yes,Would Purchase Anyway,25–34,30k–60k,Female,Yes
+390,Yes,Would Purchase Anyway,45+,100k+,Male,Not Applicable
+391,No,Would Purchase Anyway,35–44,60k–100k,Female,No
+392,No,Would Delay,45+,<30k,Female,Yes
+393,Yes,Would Purchase Anyway,25–34,30k–60k,Female,Yes
+394,No,Would Purchase Anyway,18–24,30k–60k,Female,Not Applicable
+395,Yes,Would Purchase Anyway,25–34,60k–100k,Other,Yes
+396,Yes,Would Skip,18–24,60k–100k,Female,No
+397,No,Would Delay,25–34,100k+,Female,Not Applicable
+398,Yes,Would Delay,25–34,30k–60k,Female,Not Applicable
+399,Yes,Would Delay,45+,30k–60k,Male,Not Applicable
+400,Yes,Would Skip,35–44,30k–60k,Female,Yes
+401,Yes,Would Skip,25–34,30k–60k,Female,Yes
+402,Yes,Would Skip,25–34,<30k,Female,Yes
+403,Yes,Would Purchase Anyway,35–44,30k–60k,Female,Not Applicable
+404,Yes,Would Delay,25–34,<30k,Female,Not Applicable
+405,Yes,Would Delay,25–34,60k–100k,Female,Yes
+406,No,Would Purchase Anyway,35–44,100k+,Male,Not Applicable
+407,No,Would Purchase Anyway,35–44,30k–60k,Female,Yes
+408,No,Would Purchase Anyway,18–24,100k+,Female,Yes
+409,No,Would Delay,18–24,30k–60k,Female,Not Applicable
+410,Yes,Would Purchase Anyway,25–34,30k–60k,Female,No
+411,Yes,Would Skip,25–34,30k–60k,Female,Not Applicable
+412,Yes,Would Purchase Anyway,25–34,60k–100k,Male,Not Applicable
+413,Yes,Would Purchase Anyway,25–34,100k+,Male,Yes
+414,Yes,Would Skip,35–44,<30k,Female,No
+415,No,Would Delay,25–34,30k–60k,Female,No
+416,No,Would Skip,35–44,<30k,Male,Yes
+417,Yes,Would Purchase Anyway,35–44,<30k,Female,No
+418,Yes,Would Purchase Anyway,18–24,100k+,Female,Yes
+419,No,Would Purchase Anyway,25–34,100k+,Female,Yes
+420,No,Would Purchase Anyway,18–24,100k+,Male,Yes
+421,Yes,Would Delay,45+,<30k,Male,Not Applicable
+422,No,Would Skip,35–44,<30k,Female,Yes
+423,Yes,Would Purchase Anyway,18–24,30k–60k,Other,Yes
+424,No,Would Purchase Anyway,18–24,60k–100k,Female,Not Applicable
+425,No,Would Delay,25–34,<30k,Other,Not Applicable
+426,Yes,Would Purchase Anyway,25–34,100k+,Female,No
+427,Yes,Would Skip,35–44,60k–100k,Female,Not Applicable
+428,Yes,Would Purchase Anyway,25–34,60k–100k,Male,Not Applicable
+429,Yes,Would Purchase Anyway,25–34,<30k,Female,No
+430,No,Would Delay,18–24,30k–60k,Female,Yes
+431,Yes,Would Purchase Anyway,25–34,60k–100k,Male,Yes
+432,Yes,Would Purchase Anyway,18–24,100k+,Male,Yes
+433,No,Would Purchase Anyway,18–24,30k–60k,Female,Not Applicable
+434,Yes,Would Purchase Anyway,45+,<30k,Male,Yes
+435,Yes,Would Purchase Anyway,18–24,30k–60k,Male,Not Applicable
+436,Yes,Would Delay,18–24,60k–100k,Female,Yes
+437,Yes,Would Delay,45+,<30k,Female,No
+438,No,Would Purchase Anyway,25–34,60k–100k,Female,Not Applicable
+439,Yes,Would Delay,45+,<30k,Male,Yes
+440,Yes,Would Skip,25–34,30k–60k,Female,Yes
+441,Yes,Would Skip,25–34,60k–100k,Male,Not Applicable
+442,Yes,Would Delay,18–24,30k–60k,Female,Not Applicable
+443,No,Would Purchase Anyway,18–24,30k–60k,Male,Yes
+444,No,Would Purchase Anyway,35–44,30k–60k,Female,Not Applicable
+445,Yes,Would Purchase Anyway,18–24,30k–60k,Male,Not Applicable
+446,Yes,Would Purchase Anyway,45+,30k–60k,Male,Yes
+447,No,Would Skip,18–24,30k–60k,Female,Not Applicable
+448,No,Would Purchase Anyway,25–34,100k+,Female,Yes
+449,No,Would Delay,18–24,60k–100k,Female,Not Applicable
+450,Yes,Would Delay,18–24,30k–60k,Female,Not Applicable
+451,Yes,Would Skip,25–34,100k+,Female,Not Applicable
+452,Yes,Would Skip,25–34,<30k,Female,Not Applicable
+453,Yes,Would Purchase Anyway,45+,60k–100k,Female,Not Applicable
+454,No,Would Purchase Anyway,18–24,<30k,Female,No
+455,Yes,Would Skip,25–34,<30k,Female,Not Applicable
+456,No,Would Delay,25–34,30k–60k,Other,No
+457,Yes,Would Purchase Anyway,35–44,<30k,Female,Yes
+458,Yes,Would Purchase Anyway,45+,30k–60k,Other,No
+459,Yes,Would Purchase Anyway,25–34,<30k,Female,Yes
+460,Yes,Would Purchase Anyway,25–34,30k–60k,Male,Not Applicable
+461,Yes,Would Purchase Anyway,25–34,30k–60k,Female,Yes
+462,Yes,Would Delay,25–34,30k–60k,Female,Not Applicable
+463,Yes,Would Delay,45+,60k–100k,Female,Yes
+464,Yes,Would Skip,18–24,<30k,Female,Not Applicable
+465,No,Would Purchase Anyway,25–34,<30k,Male,Yes
+466,No,Would Delay,18–24,60k–100k,Female,Yes
+467,No,Would Delay,18–24,30k–60k,Male,Yes
+468,Yes,Would Delay,35–44,<30k,Female,Not Applicable
+469,Yes,Would Purchase Anyway,35–44,100k+,Female,Not Applicable
+470,Yes,Would Purchase Anyway,18–24,60k–100k,Male,No
+471,Yes,Would Skip,45+,60k–100k,Female,Yes
+472,Yes,Would Purchase Anyway,25–34,<30k,Female,Not Applicable
+473,No,Would Purchase Anyway,35–44,60k–100k,Female,No
+474,Yes,Would Delay,18–24,30k–60k,Male,Yes
+475,No,Would Purchase Anyway,35–44,30k–60k,Female,Not Applicable
+476,Yes,Would Purchase Anyway,18–24,30k–60k,Female,Yes
+477,No,Would Skip,35–44,30k–60k,Male,No
+478,No,Would Purchase Anyway,18–24,<30k,Female,Not Applicable
+479,No,Would Delay,35–44,30k–60k,Female,Not Applicable
+480,Yes,Would Delay,18–24,<30k,Female,Not Applicable
+481,No,Would Delay,18–24,30k–60k,Male,Not Applicable
+482,Yes,Would Skip,25–34,60k–100k,Female,Not Applicable
+483,Yes,Would Delay,18–24,<30k,Male,Yes
+484,Yes,Would Skip,35–44,30k–60k,Female,Yes
+485,Yes,Would Skip,25–34,100k+,Female,Yes
+486,No,Would Skip,45+,<30k,Male,Yes
+487,No,Would Purchase Anyway,25–34,100k+,Other,Yes
+488,Yes,Would Purchase Anyway,25–34,100k+,Female,No
+489,No,Would Skip,18–24,30k–60k,Male,Not Applicable
+490,No,Would Purchase Anyway,45+,<30k,Female,Not Applicable
+491,Yes,Would Delay,35–44,<30k,Male,Yes
+492,No,Would Delay,25–34,<30k,Female,Yes
+493,Yes,Would Purchase Anyway,18–24,100k+,Male,No
+494,Yes,Would Skip,25–34,30k–60k,Female,Yes
+495,Yes,Would Skip,35–44,100k+,Female,No
+496,Yes,Would Delay,35–44,100k+,Female,No
+497,No,Would Purchase Anyway,35–44,<30k,Male,Yes
+498,No,Would Purchase Anyway,18–24,30k–60k,Female,Yes
+499,Yes,Would Delay,35–44,30k–60k,Female,Yes
+500,No,Would Delay,25–34,30k–60k,Other,Yes
+501,Yes,Would Purchase Anyway,25–34,30k–60k,Male,Not Applicable
+502,No,Would Purchase Anyway,18–24,30k–60k,Male,Not Applicable
+503,Yes,Would Purchase Anyway,18–24,60k–100k,Female,Yes
+504,Yes,Would Delay,35–44,60k–100k,Female,No
+505,No,Would Purchase Anyway,25–34,30k–60k,Male,Yes
+506,Yes,Would Purchase Anyway,25–34,<30k,Female,Not Applicable
+507,Yes,Would Delay,35–44,<30k,Female,No
+508,Yes,Would Delay,35–44,60k–100k,Female,Yes
+509,Yes,Would Skip,35–44,<30k,Female,Not Applicable
+510,No,Would Skip,18–24,60k–100k,Female,Not Applicable
+511,No,Would Delay,25–34,60k–100k,Female,No
+512,No,Would Purchase Anyway,25–34,100k+,Male,Not Applicable
+513,Yes,Would Purchase Anyway,18–24,60k–100k,Female,Not Applicable
+514,Yes,Would Delay,25–34,60k–100k,Male,Yes
+515,Yes,Would Purchase Anyway,45+,30k–60k,Female,Not Applicable
+516,No,Would Delay,25–34,100k+,Male,No
+517,Yes,Would Purchase Anyway,25–34,<30k,Female,Yes
+518,No,Would Delay,18–24,60k–100k,Female,Not Applicable
+519,Yes,Would Skip,25–34,30k–60k,Female,Not Applicable
+520,Yes,Would Purchase Anyway,18–24,100k+,Male,Yes
+521,Yes,Would Delay,25–34,<30k,Female,No
+522,Yes,Would Purchase Anyway,45+,60k–100k,Male,Yes
+523,Yes,Would Purchase Anyway,18–24,60k–100k,Female,Not Applicable
+524,Yes,Would Purchase Anyway,18–24,100k+,Female,Not Applicable
+525,Yes,Would Delay,25–34,30k–60k,Male,Yes
+526,Yes,Would Purchase Anyway,18–24,<30k,Female,Not Applicable
+527,No,Would Purchase Anyway,35–44,30k–60k,Male,Not Applicable
+528,No,Would Purchase Anyway,25–34,100k+,Female,Yes
+529,No,Would Purchase Anyway,25–34,<30k,Male,No
+530,Yes,Would Purchase Anyway,25–34,60k–100k,Female,No
+531,Yes,Would Purchase Anyway,25–34,30k–60k,Male,No
+532,No,Would Delay,25–34,<30k,Male,Not Applicable
+533,No,Would Purchase Anyway,18–24,30k–60k,Male,Not Applicable
+534,No,Would Skip,25–34,60k–100k,Female,No
+535,No,Would Delay,45+,100k+,Female,Not Applicable
+536,No,Would Skip,35–44,30k–60k,Female,Yes
+537,Yes,Would Delay,35–44,30k–60k,Female,Not Applicable
+538,Yes,Would Skip,18–24,60k–100k,Male,Yes
+539,Yes,Would Purchase Anyway,45+,30k–60k,Male,No
+540,Yes,Would Purchase Anyway,25–34,<30k,Female,Yes
+541,Yes,Would Purchase Anyway,25–34,60k–100k,Female,Yes
+542,No,Would Purchase Anyway,35–44,<30k,Other,Yes
+543,No,Would Delay,45+,<30k,Male,Not Applicable
+544,No,Would Delay,25–34,30k–60k,Female,No
+545,Yes,Would Delay,18–24,60k–100k,Female,No
+546,No,Would Skip,25–34,60k–100k,Male,No
+547,Yes,Would Delay,25–34,<30k,Male,Yes
+548,Yes,Would Purchase Anyway,25–34,<30k,Male,Not Applicable
+549,Yes,Would Delay,35–44,30k–60k,Female,No
+550,Yes,Would Delay,25–34,30k–60k,Female,No
+551,Yes,Would Purchase Anyway,25–34,100k+,Male,No
+552,No,Would Purchase Anyway,25–34,30k–60k,Female,No
+553,Yes,Would Purchase Anyway,18–24,30k–60k,Male,Yes
+554,No,Would Delay,25–34,60k–100k,Female,Not Applicable
+555,Yes,Would Purchase Anyway,25–34,30k–60k,Male,Yes
+556,No,Would Purchase Anyway,35–44,<30k,Female,Yes
+557,Yes,Would Purchase Anyway,35–44,60k–100k,Female,Not Applicable
+558,No,Would Skip,18–24,60k–100k,Female,Not Applicable
+559,Yes,Would Delay,25–34,<30k,Male,No
+560,No,Would Skip,25–34,60k–100k,Female,Not Applicable
+561,No,Would Purchase Anyway,35–44,30k–60k,Female,Yes
+562,Yes,Would Delay,25–34,60k–100k,Female,Yes
+563,No,Would Delay,18–24,<30k,Male,Not Applicable
+564,Yes,Would Purchase Anyway,18–24,60k–100k,Male,Not Applicable
+565,Yes,Would Purchase Anyway,25–34,<30k,Female,No
+566,Yes,Would Purchase Anyway,25–34,<30k,Female,Yes
+567,Yes,Would Purchase Anyway,25–34,100k+,Female,Not Applicable
+568,Yes,Would Skip,25–34,30k–60k,Female,No
+569,Yes,Would Skip,25–34,30k–60k,Male,Yes
+570,No,Would Delay,25–34,60k–100k,Female,No
+571,No,Would Purchase Anyway,25–34,60k–100k,Male,Yes
+572,No,Would Purchase Anyway,35–44,<30k,Female,No
+573,Yes,Would Skip,25–34,30k–60k,Female,No
+574,Yes,Would Purchase Anyway,25–34,30k–60k,Male,Yes
+575,Yes,Would Purchase Anyway,18–24,<30k,Male,No
+576,Yes,Would Delay,35–44,<30k,Male,No
+577,Yes,Would Purchase Anyway,35–44,60k–100k,Female,Not Applicable
+578,No,Would Purchase Anyway,18–24,100k+,Female,Not Applicable
+579,Yes,Would Delay,18–24,30k–60k,Male,Not Applicable
+580,Yes,Would Purchase Anyway,35–44,100k+,Male,No
+581,No,Would Purchase Anyway,35–44,100k+,Female,Yes
+582,Yes,Would Purchase Anyway,25–34,30k–60k,Male,Not Applicable
+583,Yes,Would Skip,25–34,30k–60k,Other,No
+584,Yes,Would Delay,25–34,60k–100k,Female,Not Applicable
+585,Yes,Would Delay,18–24,30k–60k,Female,Not Applicable
+586,No,Would Purchase Anyway,18–24,<30k,Female,Yes
+587,Yes,Would Purchase Anyway,45+,100k+,Male,Not Applicable
+588,Yes,Would Delay,35–44,60k–100k,Female,No
+589,Yes,Would Purchase Anyway,25–34,100k+,Female,Yes
+590,Yes,Would Skip,25–34,60k–100k,Male,Yes
+591,No,Would Purchase Anyway,18–24,<30k,Female,Not Applicable
+592,Yes,Would Purchase Anyway,35–44,30k–60k,Other,Yes
+593,Yes,Would Delay,25–34,<30k,Female,No
+594,No,Would Purchase Anyway,45+,60k–100k,Male,Yes
+595,No,Would Purchase Anyway,25–34,<30k,Other,Yes
+596,Yes,Would Delay,25–34,60k–100k,Other,No
+597,Yes,Would Delay,35–44,30k–60k,Female,Not Applicable
+598,No,Would Purchase Anyway,25–34,60k–100k,Male,Not Applicable
+599,Yes,Would Purchase Anyway,45+,60k–100k,Female,Yes
+600,No,Would Purchase Anyway,35–44,100k+,Female,Yes
+601,No,Would Delay,25–34,30k–60k,Female,Yes
+602,Yes,Would Delay,25–34,60k–100k,Male,No
+603,Yes,Would Delay,25–34,60k–100k,Female,Not Applicable
+604,Yes,Would Purchase Anyway,25–34,30k–60k,Male,Not Applicable
+605,Yes,Would Purchase Anyway,35–44,<30k,Male,Yes
+606,No,Would Purchase Anyway,45+,60k–100k,Female,Yes
+607,Yes,Would Purchase Anyway,25–34,<30k,Female,Not Applicable
+608,Yes,Would Delay,25–34,<30k,Other,Not Applicable
+609,Yes,Would Delay,25–34,30k–60k,Female,No
+610,Yes,Would Delay,18–24,60k–100k,Female,Not Applicable
+611,Yes,Would Skip,45+,100k+,Female,Yes
+612,Yes,Would Purchase Anyway,35–44,60k–100k,Other,Not Applicable
+613,Yes,Would Delay,25–34,60k–100k,Male,Yes
+614,Yes,Would Delay,25–34,30k–60k,Male,Not Applicable
+615,Yes,Would Purchase Anyway,25–34,60k–100k,Female,Yes
+616,No,Would Delay,45+,60k–100k,Male,Not Applicable
+617,No,Would Purchase Anyway,25–34,<30k,Male,Yes
+618,No,Would Purchase Anyway,25–34,60k–100k,Female,Yes
+619,Yes,Would Purchase Anyway,25–34,60k–100k,Female,Yes
+620,Yes,Would Purchase Anyway,25–34,<30k,Female,Not Applicable
+621,No,Would Purchase Anyway,25–34,<30k,Male,No
+622,No,Would Delay,35–44,30k–60k,Male,No
+623,Yes,Would Purchase Anyway,35–44,<30k,Male,Not Applicable
+624,Yes,Would Purchase Anyway,18–24,60k–100k,Male,Not Applicable
+625,No,Would Skip,25–34,100k+,Female,Yes
+626,Yes,Would Purchase Anyway,45+,60k–100k,Male,No
+627,Yes,Would Skip,35–44,60k–100k,Male,Not Applicable
+628,No,Would Purchase Anyway,18–24,<30k,Female,Yes
+629,No,Would Purchase Anyway,25–34,100k+,Female,No
+630,Yes,Would Purchase Anyway,25–34,<30k,Male,Not Applicable
+631,No,Would Purchase Anyway,18–24,60k–100k,Female,Yes
+632,Yes,Would Purchase Anyway,18–24,<30k,Female,Not Applicable
+633,Yes,Would Purchase Anyway,35–44,60k–100k,Male,Not Applicable
+634,Yes,Would Delay,25–34,60k–100k,Female,No
+635,Yes,Would Purchase Anyway,18–24,30k–60k,Female,Not Applicable
+636,No,Would Delay,25–34,<30k,Female,Not Applicable
+637,No,Would Delay,45+,30k–60k,Female,Not Applicable
+638,No,Would Purchase Anyway,18–24,100k+,Male,Not Applicable
+639,Yes,Would Delay,25–34,100k+,Female,Not Applicable
+640,Yes,Would Delay,35–44,<30k,Male,Yes
+641,Yes,Would Delay,25–34,<30k,Female,No
+642,Yes,Would Delay,35–44,100k+,Female,Yes
+643,Yes,Would Delay,35–44,100k+,Male,Not Applicable
+644,No,Would Delay,25–34,<30k,Male,Not Applicable
+645,No,Would Purchase Anyway,45+,100k+,Female,Not Applicable
+646,No,Would Skip,35–44,30k–60k,Female,No
+647,No,Would Delay,18–24,30k–60k,Male,Not Applicable
+648,Yes,Would Purchase Anyway,35–44,60k–100k,Female,Not Applicable
+649,Yes,Would Delay,18–24,30k–60k,Male,Yes
+650,Yes,Would Purchase Anyway,18–24,<30k,Female,Not Applicable
+651,No,Would Purchase Anyway,25–34,<30k,Male,No
+652,Yes,Would Purchase Anyway,25–34,<30k,Female,Yes
+653,Yes,Would Purchase Anyway,35–44,<30k,Female,No
+654,Yes,Would Delay,18–24,30k–60k,Male,Not Applicable
+655,Yes,Would Purchase Anyway,25–34,<30k,Other,Yes
+656,Yes,Would Skip,18–24,60k–100k,Female,No
+657,Yes,Would Skip,25–34,60k–100k,Female,Yes
+658,No,Would Purchase Anyway,25–34,<30k,Male,Not Applicable
+659,Yes,Would Delay,25–34,60k–100k,Female,No
+660,No,Would Purchase Anyway,18–24,100k+,Male,Not Applicable
+661,Yes,Would Purchase Anyway,18–24,60k–100k,Male,Not Applicable
+662,No,Would Delay,45+,<30k,Male,Yes
+663,No,Would Delay,18–24,60k–100k,Female,Yes
+664,Yes,Would Purchase Anyway,25–34,<30k,Female,Yes
+665,No,Would Skip,18–24,30k–60k,Female,Not Applicable
+666,Yes,Would Purchase Anyway,25–34,100k+,Female,Not Applicable
+667,No,Would Purchase Anyway,25–34,30k–60k,Female,Yes
+668,Yes,Would Delay,25–34,30k–60k,Male,Not Applicable
+669,Yes,Would Delay,18–24,30k–60k,Male,Not Applicable
+670,Yes,Would Delay,25–34,30k–60k,Female,Yes
+671,Yes,Would Purchase Anyway,35–44,60k–100k,Female,Not Applicable
+672,No,Would Delay,18–24,60k–100k,Female,Yes
+673,No,Would Purchase Anyway,25–34,30k–60k,Male,No
+674,Yes,Would Delay,35–44,60k–100k,Female,No
+675,Yes,Would Purchase Anyway,25–34,100k+,Male,No
+676,Yes,Would Delay,35–44,100k+,Female,No
+677,Yes,Would Delay,25–34,100k+,Male,No
+678,Yes,Would Delay,35–44,30k–60k,Male,Not Applicable
+679,Yes,Would Purchase Anyway,25–34,<30k,Female,No
+680,No,Would Delay,18–24,<30k,Male,No
+681,Yes,Would Delay,45+,30k–60k,Male,Not Applicable
+682,No,Would Delay,35–44,30k–60k,Female,No
+683,No,Would Purchase Anyway,25–34,30k–60k,Female,Yes
+684,Yes,Would Delay,45+,<30k,Female,Yes
+685,Yes,Would Purchase Anyway,25–34,100k+,Female,No
+686,Yes,Would Purchase Anyway,25–34,<30k,Female,Not Applicable
+687,Yes,Would Delay,18–24,60k–100k,Female,Not Applicable
+688,No,Would Purchase Anyway,18–24,30k–60k,Female,Yes
+689,Yes,Would Delay,18–24,<30k,Male,Not Applicable
+690,Yes,Would Purchase Anyway,25–34,60k–100k,Male,Not Applicable
+691,Yes,Would Delay,25–34,60k–100k,Female,Not Applicable
+692,Yes,Would Delay,35–44,<30k,Male,Not Applicable
+693,Yes,Would Delay,35–44,100k+,Male,Not Applicable
+694,Yes,Would Skip,18–24,60k–100k,Female,Not Applicable
+695,Yes,Would Purchase Anyway,25–34,<30k,Female,Yes
+696,Yes,Would Purchase Anyway,25–34,30k–60k,Male,Yes
+697,Yes,Would Delay,25–34,60k–100k,Male,Yes
+698,Yes,Would Purchase Anyway,25–34,<30k,Male,Not Applicable
+699,Yes,Would Delay,25–34,30k–60k,Male,No
+700,Yes,Would Purchase Anyway,25–34,60k–100k,Female,Not Applicable
+701,No,Would Purchase Anyway,35–44,60k–100k,Female,Not Applicable
+702,Yes,Would Skip,25–34,<30k,Male,Not Applicable
+703,Yes,Would Delay,35–44,30k–60k,Female,Not Applicable
